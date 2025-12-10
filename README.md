@@ -5,6 +5,7 @@ To simulate a Hartley Oscillator and to obtain the output.
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
 
+
 <img width="756" height="588" alt="image" src="https://github.com/user-attachments/assets/7cad829b-0c83-4af7-8be5-4c6a6a4d9a57" />
 
 ## SIMULATION PROCEDURE:
